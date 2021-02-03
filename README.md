@@ -5,4 +5,4 @@ Created: April 2019
 
 Description: My first attempt at making a small game using Java and JavaFX.
 
-Feel free to watch the demonstration video showcasing the project!
+Feel free to watch the Demo.mp4 video showcasing the project!
