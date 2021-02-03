@@ -1,0 +1,29 @@
+//Maps are 80x40 csv files containing numerical codes for tile type.
+//99 - white space
+//1 - random grass tile
+//0 - water tile
+//2 - horizontal path facing up 
+//3 -horizontal path facing down
+//4 - vertical path facing right
+//5 - vertical path facing left
+//6 - dirt
+//7 - corner top left
+//8 - corner bottom left
+//9 - corner top right
+//10 - corner bottom right
+//12 - water edge facing down
+//13 - wood
+//14 - pillar on the left of the dock
+//15 - pillar on the right of the dock
+//16 - dock with down facing shadow
+//17 - red house
+//18 - blue house
+//19 - green house
+//20 - bait shop
+//21 - left bridge
+//22 - right bridge
+//23 - bridge shadow
+//24 - water edge bridge shadow
+//25 - ferry
+//26 - market
+//27 - tree
